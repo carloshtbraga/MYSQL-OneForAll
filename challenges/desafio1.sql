@@ -128,7 +128,7 @@ VALUES
   (9, 3),
   (10, 2);
 
-  INSERT INTO historico (data_reproducao, usuario_id, musica_id)
+  INSERT INTO historico (data_reproducao, musica_id, usuario_id)
 VALUES
   ("2022-02-28 10:45:55", 8, 1),
   ("2020-05-02 05:30:35", 2, 1),
