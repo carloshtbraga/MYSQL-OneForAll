@@ -5,3 +5,5 @@ SELECT
 FROM musicas AS m
 JOIN albuns AS al ON al.album_id = m.album_id
 JOIN artistas AS ar ON ar.artista_id = al.artista_id
+
+-- 
