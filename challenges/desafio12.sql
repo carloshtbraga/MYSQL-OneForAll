@@ -18,4 +18,5 @@ CASE ranking
     WHEN 'B' THEN 2
     WHEN 'A' THEN 1
     WHEN '-' THEN 4
-  END
+  END, artista
+
