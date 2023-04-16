@@ -1,4 +1,4 @@
- <h1 align='center'>One FOR ALL</h1>
+ <h1 align='center'>One For All</h1>
  <p align="center">
   <a href="#sobre-o-projeto">Sobre o Projeto</a> •
   <a href="#tecnologias-utilizadas">Tecnologias Utilizadas</a> • 
